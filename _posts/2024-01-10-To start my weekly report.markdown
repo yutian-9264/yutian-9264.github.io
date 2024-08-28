@@ -1,9 +1,3 @@
----
-layout: post
-title: "To start my weekly report"
-date: 2024-0110 14:06
----
-
 I need to end chill state and uplift myself. And now I decide to start my weekly report. The motives are:
 
 - to improve my english writing skills;
