@@ -1,8 +1,4 @@
----
-layout: post
-title: "Weekly Report(0108-0114)."
-date: 2024-0113
----
+2024-01-13
 
 ## Weekly topic
 ### Why esr recommend newbie to study Golang instead of Rust?

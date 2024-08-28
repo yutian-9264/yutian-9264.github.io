@@ -1,3 +1,5 @@
+2024-01-10
+
 I need to end chill state and uplift myself. And now I decide to start my weekly report. The motives are:
 
 - to improve my english writing skills;
