@@ -1,9 +1,8 @@
-<!-- ---
-layout: post
+---
 title:  how translate 'disappoited' to chinese
-date:   2024-08-29 02:56:00 +0000
-categories: update
---- -->
+layout: post
+date:   2024-08-29
+---
 
 # 学英语应该将重点放在阅读而不是背单词
 
@@ -11,13 +10,13 @@ categories: update
 
 今天在看一篇wsj的文章时，读到这么一句话：
 
-![alt text](image.png)
+![](/images/image.png)
 
 直译过来就是：Michael周四说，他不认为他的老婆Williams对在空间站多待一段时间而感到失望。
 
 问题在于‘disappointed’的翻译，不仅意思不对，而且读起来很拗口。如果你在背单词的时候见过它，那么会记得它的汉语意思是失望的，沮丧的。但是这里若翻译成失望、沮丧，就会很奇怪，在汉语的语境中，“失望”常被用来描述对某人，例如父母对我感到失望；“沮丧”常被用来描述对没做好某事，例如考试没考好，我感到很沮丧。在空间站多待一段时间，用“失望”、“沮丧”来描述都不合适。那此处该如何翻译呢？我们来查看collins（柯林斯）词典：
 
-![alt text](image-2.png)
+![](/images/image-2.png)
 
 根据柯林斯的英英解释，什么时候用‘disappointed’呢？在你因为某事没有发生或者某事没有像你预期得那么好的时候，就可以使用这个单词来描述。
 
@@ -48,13 +47,13 @@ categories: update
 
 - donk，在今年2月的cs比赛中拿到有史以来最高的选手评分，2007年出生，目前17岁，到此刻（北京时间2024.8.29凌晨2点）为止，他一共玩csgo14876小时，假设每天玩8h，他已经不间断地玩了5年（从12岁每天不间断地玩到今天）。
 
-![alt text](image-4.png)
+![](/images/image-4.png)
 
-![alt text](image-3.png)
+![](/images/image-3.png)
 
 - George Hotz，我非常仰慕的一名hacker。17岁成为第一个被报道的拆除 iPhone SIM 锁的人。2016年，一个人编写了汽车自动导航算法openpilot的框架与初版。他经常在twitch直播自己写代码、修bug，最近比较长的一次是9h，要知道这9小时，基本都是高强度的思考、code。
 
-![alt text](image-5.png)
+![](/images/image-5.png)
 
 简单来讲，只有花大量的时间，才有可能会成功；花的时间不够，一定不会成功。
 
