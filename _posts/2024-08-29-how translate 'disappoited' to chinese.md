@@ -1,6 +1,6 @@
 <!-- ---
 layout: post
-title:  "从“disappointed”的翻译展开"
+title:  how translate 'disappoited' to chinese
 date:   2024-08-29 02:56:00 +0000
 categories: update
 --- -->
