@@ -1,3 +1,10 @@
+<!-- ---
+layout: post
+title:  "从“disappointed”的翻译展开"
+date:   2024-08-29 02:56:00 +0000
+categories: update
+--- -->
+
 # 学英语应该将重点放在阅读而不是背单词
 
 先不提听力。
