@@ -1,5 +1,5 @@
 ---
-title:  test
+title:  中文标题测试
 layout: post
 date:   2024-08-29
 ---
