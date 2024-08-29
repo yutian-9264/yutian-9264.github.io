@@ -1,5 +1,5 @@
 ---
-title:  how translate 'disappoited' to chinese
+title:  从如何翻译'disappointed'来展开
 layout: post
 date:   2024-08-29
 ---
