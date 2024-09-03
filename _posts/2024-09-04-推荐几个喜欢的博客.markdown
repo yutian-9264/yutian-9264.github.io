@@ -23,6 +23,8 @@ rust compiler重要PRer，主要内容为程序员、rust、开源贡献，穿�
 
 蒋炎岩，我最喜欢的国内cs大学老师。
 
+- https://jvns.ca/
+
 -  https://geohot.github.io/blog/
 
 George Hotz个人碎碎念的博客。涉猎广泛、语言晦涩。
