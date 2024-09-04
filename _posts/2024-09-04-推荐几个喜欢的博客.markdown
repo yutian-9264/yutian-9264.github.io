@@ -25,6 +25,8 @@ rust compiler重要PRer，主要内容为程序员、rust、开源贡献，穿�
 
 - https://jvns.ca/
 
+编程相关，主要是git和network。
+
 -  https://geohot.github.io/blog/
 
 George Hotz个人碎碎念的博客。涉猎广泛、语言晦涩。
