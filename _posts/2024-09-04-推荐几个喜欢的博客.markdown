@@ -11,38 +11,47 @@
 - [https://notes.jeddacp.com/](https://notes.jeddacp.com/)
 
 更新频繁，主要为生活记录，网站做得很漂亮。
+<p>&nbsp;</p>
 
 -  [https://catcoding.me/](https://catcoding.me/)
 
 rust compiler重要PRer，主要内容为程序员、rust、开源贡献，穿插着对生活的思考。
+<p>&nbsp;</p>
 
 -  [https://kognise.dev/](https://kognise.dev/)
 
 写了一些能让人学进去的文章，如对cpu的讲解。
+<p>&nbsp;</p>
 
 -  [https://lutaonan.com/](https://lutaonan.com/)
 
 代码之外主播，主要内容对生活、职业的思考和感悟，大一退学的经历让他的成功更加励志。
+<p>&nbsp;</p>
 
 - [https://ics.nju.edu.cn/~jyy/](https://ics.nju.edu.cn/~jyy/)
 
 蒋炎岩，我最喜欢的国内cs大学老师。
+<p>&nbsp;</p>
 
 - [https://jvns.ca/](https://jvns.ca/)
 
 编程相关，主要是git和network。
+<p>&nbsp;</p>
 
 -  [https://geohot.github.io/blog/](https://geohot.github.io/blog/)
 
 George Hotz个人碎碎念的博客。涉猎广泛、语言晦涩。
+<p>&nbsp;</p>
 
 -  [https://karpathy.ai/](https://karpathy.ai/)
 
 andrej karpathy的个人网站，前tesla的ai总监，openai联合创始人，在youtube上录制了很多教育性课程。这个网站中让我觉得最有意思的部分是他的一些建议性文章（例如：如何读phd）和与agi相关的书籍的推荐。
+<p>&nbsp;</p>
 
 -  [https://www.paulgraham.com/](https://www.paulgraham.com/)
 
 Paul Graham, Y combinator创始人，主要内容为如何获得商业上的成功。
+<p>&nbsp;</p>
 
 -  [https://blog.samaltman.com/](https://blog.samaltman.com/])
 
